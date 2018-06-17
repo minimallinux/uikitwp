@@ -1,0 +1,1 @@
+$('ul li.menu-parent-item:has(ul ul)').addClass('your class');
